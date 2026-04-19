@@ -8,7 +8,6 @@ Universidad Internacional de Valencia*
 
 Prof: Dr. Horacio Kuna  
 Estudiante: Práctica Ana Hu Martínez Figueroa
-
 Dictado: OCT25-26
 
 ## Descripción del contenido
